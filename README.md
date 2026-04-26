@@ -8,12 +8,12 @@ I build intelligent systems and robust technical frameworks.
 I founded Latton Lab back in 2023. As the founder of Latton Lab, I engineer bespoke IT solutions and scalable enterprise applications. My technical expertise centers on deploying Large Language Models (LLMs) on local and cloud hardware, architecting Retrieval-Augmented Generation (RAG) pipelines, and developing edge computing solutions. I focus on translating complex data into functional, high-performance systems.
 
 ### What I'm Currently Working On
-- Developing Project Genesis, a portable AI launcher distributed entirely via USB drives.
+- Developing **Project Genesis**, a portable AI launcher distributed entirely via USB drives.
 - Architecting scalable edge AI solutions and integrating LLMs for autonomous data analysis.
 
 ### Highlighted Engineering
-- AirSense AI (Hackathon Winner): Executed comprehensive exploratory data analysis and predictive modeling of environmental quality metrics.
-- FraudTrace: Unveiled a fully autonomous, AI-powered forensic database investigator capable of intelligent data tracing.
+- **AirSense AI** (24H Hackathon Winner): Executed comprehensive exploratory data analysis and predictive modeling of environmental quality metrics.
+- **FraudTrace**: Unveiled a fully autonomous, AI-powered forensic database investigator capable of intelligent data tracing.
 - Hardware & Edge Computing: Developed an AI acceleration computing cluster utilizing Raspberry Pi 5, alongside engineering real-time network scanners using ESP8266 and custom OLED UIs.
 
 ### Tech Stacks:
@@ -37,6 +37,15 @@ I founded Latton Lab back in 2023. As the founder of Latton Lab, I engineer besp
 ![Ollama](https://img.shields.io/badge/Ollama-0a1128?style=for-the-badge&logo=ollama&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-0a1128?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0a1128?style=for-the-badge&logo=jupyter&logoColor=white)
+
+I also know:<br/>
+[![NodeJS, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,php,clojure,r,ruby)](https://skillicons.dev)
+
+## Software
+![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-A23C9A.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 
 ### GitHub Analytics:
 <p align="left">
