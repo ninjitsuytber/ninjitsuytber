@@ -53,6 +53,8 @@ I also know:<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjitsuytber&layout=compact&title_color=0a1128&text_color=333333&bg_color=ffffff&hide_border=false&border_color=0a1128&border_radius=0" alt="Top Languages" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ninjitsuytber&theme=light)](https://git.io/streak-stats)
+
 ### Let's Connect
 - Enterprise Solutions: [Latton Lab](https://lattonlab.netlify.app/)
 - Email: [stephen8864321@gmail.com](mailto:stephen8864321@gmail.com)
