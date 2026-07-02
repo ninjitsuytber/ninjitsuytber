@@ -48,10 +48,9 @@ I also know:<br/>
 ![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 
 ### GitHub Analytics:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjitsuytber&show_icons=true&title_color=0a1128&icon_color=0a1128&text_color=333333&bg_color=ffffff&hide_border=false&border_color=0a1128&border_radius=0" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjitsuytber&layout=compact&title_color=0a1128&text_color=333333&bg_color=ffffff&hide_border=false&border_color=0a1128&border_radius=0" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green) 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=vue)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=ninjitsuytber&theme=default&hide_border=true&ring=9EEB47&fire=9EEB47&currStreakNum=9EEB47&currStreakLabel=9EEB47)
 
