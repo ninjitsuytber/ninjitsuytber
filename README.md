@@ -55,6 +55,6 @@ I also know:<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=ninjitsuytber&theme=default&hide_border=true&ring=9EEB47&fire=9EEB47&currStreakNum=9EEB47&currStreakLabel=9EEB47)
 
 ### Let's Connect
-- Enterprise Solutions: [Latton Lab](https://lattonlab.netlify.app/)
+- Enterprise Solutions: [Latton Lab](https://lattonlab.tech/)
 - Email: [stephen8864321@gmail.com](mailto:stephen8864321@gmail.com)
 - LinkedIn: [Stephen Sii](https://www.linkedin.com/in/stephen-sii-8b17221bb)
