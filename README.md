@@ -52,7 +52,7 @@ I also know:<br/>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=shadow_green)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=ninjitsuytber&theme=default&hide_border=true&ring=9EEB47&fire=9EEB47&currStreakNum=9EEB47&currStreakLabel=9EEB47)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=ninjitsuytber&theme=default&hide_border=true&ring=9EEB47&fire=9EEB47&currStreakNum=9EEB47&currStreakLabel=9EEB47)
 
 ### Let's Connect
 - Enterprise Solutions: [Latton Lab](https://lattonlab.tech/)
