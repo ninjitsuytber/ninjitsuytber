@@ -48,7 +48,7 @@ I also know:<br/>
 ![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 
 ### GitHub Analytics:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=ninjitsuytber&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_green)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=ninjitsuytber&layout=compact&langs_count=10&theme=shadow_green)
 
