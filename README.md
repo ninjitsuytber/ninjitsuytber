@@ -1,5 +1,5 @@
 # Hi there, It's Stephen here!
-
+[![committers.top badge](https://user-badge.committers.top/malaysia/USERNAME.svg)](https://user-badge.committers.top/malaysia/ninjitsuytber)
 <img width="250" height="250" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/d193ddaf-be81-439a-a2ae-6a1ebba74a14" />
 
 I build intelligent systems and robust technical frameworks. 
