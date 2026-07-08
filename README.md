@@ -12,7 +12,7 @@ I founded Latton Lab back in 2023. As the founder of Latton Lab, I engineer besp
 - Architecting scalable edge AI solutions and integrating LLMs for autonomous data analysis.
 
 ### Highlighted Engineering
-- **AirSense AI** (24H Hackathon Winner): Executed comprehensive exploratory data analysis and predictive modeling of environmental quality metrics.
+- **AirSense AI** _(24H Hackathon Winner)_: Executed comprehensive exploratory data analysis and predictive modeling of environmental quality metrics.
 - **FraudTrace**: Unveiled a fully autonomous, AI-powered forensic database investigator capable of intelligent data tracing.
 - Hardware & Edge Computing: Developed an AI acceleration computing cluster utilizing Raspberry Pi 5, alongside engineering real-time network scanners using ESP8266 and custom OLED UIs.
 
